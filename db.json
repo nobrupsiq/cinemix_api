@@ -2,25 +2,25 @@
   "combos": [
     {
       "id": "1",
-      "imagem": "https://media.discordapp.net/attachments/821205003758862369/1171938611504095272/combo-mini.png",
+      "imagem": "https://github.com/nobrupsiq/cinemix-purejs/blob/main/img/combos/1.png?raw=true",
       "nome": "Combo Mini",
       "descricao": "Pipoca Mini + Refrigerante 500ML"
     },
     {
       "descricao": "Pipoca Mega + Refrigerante 700ML",
       "id": "2",
-      "imagem": "https://media.discordapp.net/attachments/821205003758862369/1171938611218894909/combo-mega.png",
+      "imagem": "https://github.com/nobrupsiq/cinemix-purejs/blob/main/img/combos/2.png?raw=true",
       "nome": "Combo Mega"
     },
     {
       "descricao": "Pipoca super + Refrigerante 700ML",
       "id": "3",
-      "imagem": "https://media.discordapp.net/attachments/821205003758862369/1171938611835457636/combo-super.png",
+      "imagem": "https://github.com/nobrupsiq/cinemix-purejs/blob/main/img/combos/3.png?raw=true",
       "nome": "Combo Super"
     },
     {
       "id": "4",
-      "imagem": "https://media.discordapp.net/attachments/821205003758862369/1171938610887532544/combo-giga.png",
+      "imagem": "https://github.com/nobrupsiq/cinemix-purejs/blob/main/img/combos/4.png?raw=true",
       "nome": "Combo Giga",
       "descricao": "Pipoca Giga + Refrigerante 1000ML"
     }
